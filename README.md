@@ -11,12 +11,12 @@ I am actively developing an **AI-powered Personal Management system** designed t
 *   **Project Management & Design:** Experienced in **Agile/Scrum** workflows, managing sprints, and designing user-centric interfaces.
 
 ### Tech Stack & Tools
-*   **Languages:** C#, PHP, SQL
-*   **Workflow & Docs:** Git/GitHub, Agile/Scrum (Sprint Planning)
-*   **Design:** UI/UX, draw.io, Axure RP 11
+*   **Languages:** C#, PHP, SQL.
+*   **Workflow & Docs:** Git/GitHub, Agile/Scrum (Sprint Planning).
+*   **Design:** UI/UX, draw.io, Axure RP 11.
 
 ###  Currently Exploring
 *   Integrating AI models into practical software applications.
 *   Optimizing database queries and refining backend architectures.
 
-📫 **How to reach me:** sleanguyen@gmail.com
+📫 **How to reach me:** sleanguyen@gmail.com  
