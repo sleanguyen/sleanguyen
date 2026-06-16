@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there, I'm Bryant (or Bảo)! 👋
+I'm a student at the University of Greenwich Vietnam, uniquely combining Software Development with a strong foundation in Accounting and Data Analytics. I love building practical, scalable systems and am currently diving into the world of Artificial Intelligence.
 
-<!--
-**sleanguyen/sleanguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current Spotlight: Personal Management AI
+I am actively developing an AI-powered Personal Management system designed to optimize daily workflows, manage tasks intelligently, and enhance productivity.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What Else I Do
+Web & Software Dev: Developing functional applications (like booking systems) using PHP, C# (Windows Forms), and SQL.
+UI/UX & Visual Design: Creating clear user flows, wireframes, and prototypes.
+Project Management & Design: Experienced in Agile/Scrum workflows, managing sprints, and designing user-centric interfaces.
+Tech Stack & Tools
+Languages: C#, PHP, SQL
+Workflow & Docs: Git/GitHub, Agile/Scrum (Sprint Planning)
+Design: UI/UX, draw.io, Axure RP 11
+🌱 Currently Exploring
+Integrating AI models into practical software applications.
+Optimizing database queries and refining backend architectures.
+📫 How to reach me: https://www.linkedin.com/in/gia-b%E1%BA%A3o-nguy%E1%BB%85n-l%C6%B0%C6%A1ng-54946a347/ or sleanguyen@gmail.com
