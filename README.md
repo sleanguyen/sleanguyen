@@ -19,4 +19,4 @@ I am actively developing an **AI-powered Personal Management system** designed t
 *   Integrating AI models into practical software applications.
 *   Optimizing database queries and refining backend architectures.
 
-📫 **How to reach me:** https://www.linkedin.com/in/gia-b%E1%BA%A3o-nguy%E1%BB%85n-l%C6%B0%C6%A1ng-54946a347/ or sleanguyen@gmail.com
+📫 **How to reach me:** sleanguyen@gmail.com
