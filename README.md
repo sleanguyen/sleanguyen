@@ -15,7 +15,7 @@ I am actively developing an **AI-powered Personal Management system** designed t
 *   **Workflow & Docs:** Git/GitHub, Agile/Scrum (Sprint Planning)
 *   **Design:** UI/UX, draw.io, Axure RP 11
 
-### 🌱 Currently Exploring
+###  Currently Exploring
 *   Integrating AI models into practical software applications.
 *   Optimizing database queries and refining backend architectures.
 
