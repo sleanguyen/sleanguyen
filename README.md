@@ -19,4 +19,4 @@ I am actively developing an **AI-powered Personal Management system** designed t
 *   Integrating AI models into practical software applications.
 *   Optimizing database queries and refining backend architectures.
 
-📫 **How to reach me:** sleanguyen@gmail.com
+📫 **How to reach me:** sleanguyen@gmail.com  
