@@ -2,6 +2,9 @@
 
 I'm a student at the University of Greenwich Vietnam, uniquely combining Software Development with a strong foundation in Accounting and Data Analytics. I love building practical, scalable systems and am currently diving into the world of Artificial Intelligence.
 
+### 🏆 LeetCode Progress
+![LeetCode Stats](https://leetcard.jacoblin.cool/sleanguyen?theme=dark)
+
 ### Current Spotlight: Personal Management AI
 I am actively developing an **AI-powered Personal Management system** designed to optimize daily workflows, manage tasks intelligently, and enhance productivity. 
 
