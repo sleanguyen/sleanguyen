@@ -1,25 +1,27 @@
 # Hi there, I'm Bryant (or Bảo)! 👋
 
-I'm a student at the University of Greenwich Vietnam, uniquely combining Software Development with a strong foundation in Accounting and Data Analytics. I love building practical, scalable systems and am currently diving into the world of Artificial Intelligence.
+I'm a student at the University of Greenwich Vietnam, currently building toward **Fullstack Development with a growing focus on DevOps**, and applying everything I learn into a personal AI project.
 
 ### LeetCode Progress
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sleanguyen?theme=dark)
 
 ### Current Spotlight: Personal Management AI
-I am actively developing an **AI-powered Personal Management system** designed to optimize daily workflows, manage tasks intelligently, and enhance productivity. 
+I'm actively building an **AI-powered Personal Management System** — a project that doubles as my learning playground. It's where I apply new Fullstack concepts and DevOps practices as I pick them up, turning theory into a real, working product designed to optimize daily workflows, manage tasks intelligently, and boost productivity.
 
 ### What Else I Do
-*   **Web & Software Dev:** Developing functional applications (like booking systems) using **PHP**, **C# (Windows Forms)**, and **SQL**.
-*  **UI/UX & Visual Design:** Creating clear user flows, wireframes, and prototypes.
-*   **Project Management & Design:** Experienced in **Agile/Scrum** workflows, managing sprints, and designing user-centric interfaces.
+- **Fullstack Development:** Building end-to-end applications — from backend logic and databases to frontend interfaces.
+- **DevOps (Growing Focus):** Learning CI/CD pipelines, containerization, and deployment workflows to ship more reliable software.
+- **Project Management & Design:** Experienced in Agile/Scrum, sprint planning, and designing user-centric interfaces.
 
 ### Tech Stack & Tools
-*   **Languages:** C#, Python, SQL.
-*   **Workflow & Docs:** Git/GitHub, Agile/Scrum (Sprint Planning).
-*   **Design:** UI/UX, draw.io, Axure RP 11.
+- **Languages:** Python, C#, SQL
+- **DevOps & Infra:** Git/GitHub, Docker *(learning)*, CI/CD basics *(learning)*
+- **Workflow & Docs:** Agile/Scrum (Sprint Planning)
+- **Design:** UI/UX, draw.io, Axure RP
 
 ###  Currently Exploring
-*   Integrating AI models into practical software applications.
-*   Optimizing database queries and refining backend architectures.
+- Integrating AI models into practical software applications
+- DevOps fundamentals: containerization, automation, and deployment pipelines
+- Optimizing database queries and backend architecture
 
 **How to reach me:** sleanguyen@gmail.com  
